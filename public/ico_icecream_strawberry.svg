@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="139" height="83" viewBox="0 0 139 83">
+  <g id="그룹_8" data-name="그룹 8" transform="translate(0.298 0.12)">
+    <g id="그룹_1" data-name="그룹 1">
+      <path id="사각형_1" data-name="사각형 1" d="M54,0h0a54,54,0,0,1,54,54V83a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V54A54,54,0,0,1,54,0Z" transform="translate(15.702 -0.12)" fill="#ff5858"/>
+      <rect id="사각형_2" data-name="사각형 2" width="139" height="29" rx="14.5" transform="translate(-0.298 53.88)" fill="#ff5858"/>
+    </g>
+    <g id="그룹_5" data-name="그룹 5" transform="translate(60.577 26.449)">
+      <g id="그룹_4" data-name="그룹 4">
+        <ellipse id="타원_1" data-name="타원 1" cx="3.5" cy="3" rx="3.5" ry="3" transform="translate(0.125 0.431)" fill="#fff"/>
+        <circle id="타원_2" data-name="타원 2" cx="3" cy="3" r="3" transform="translate(13.125 0.431)" fill="#fff"/>
+      </g>
+      <rect id="사각형_3" data-name="사각형 3" width="6" height="2" rx="1" transform="translate(7.125 10.431)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
