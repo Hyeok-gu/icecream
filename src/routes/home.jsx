@@ -434,7 +434,6 @@ export default function Home() {
   return (
     <>
       <Wrapper>
-        {/* <Fail className={failActive ? "active" : ""}>실패...</Fail> */}
         <Success className={successActive ? "active" : ""}>
           {userName} 성공!!
         </Success>
